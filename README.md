@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
-<img align = "center" alt = "coding" width = "400" src = "https://www.quickstart.com/blog/data-science/what-does-a-data-analyst-do-data-analyst-job-description/">
+
 
 ###
 
